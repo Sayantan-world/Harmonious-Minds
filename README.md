@@ -162,10 +162,30 @@ The prompts in this repository are the ones documented in the paper's appendix:
 ## Citation
 
 ```bibtex
-@inproceedings{harmonious-minds-2025,
-  title     = {Harmonious Minds: Benchmarking Intertwined Reasoning of Human Personality and Musical Preference},
-  booktitle = {Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025},
-  year      = {2025}
+@inproceedings{pal-etal-2025-harmonious,
+    title = "Harmonious Minds: Benchmarking Intertwined Reasoning of Human Personality and Musical Preference",
+    author = "Pal, Sayantan  and
+      Das, Souvik  and
+      Srihari, Rohini",
+    editor = "Inui, Kentaro  and
+      Sakti, Sakriani  and
+      Wang, Haofen  and
+      Wong, Derek F.  and
+      Bhattacharyya, Pushpak  and
+      Banerjee, Biplab  and
+      Ekbal, Asif  and
+      Chakraborty, Tanmoy  and
+      Singh, Dhirendra Pratap",
+    booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    month = dec,
+    year = "2025",
+    address = "Mumbai, India",
+    publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-ijcnlp.126/",
+    doi = "10.18653/v1/2025.findings-ijcnlp.126",
+    pages = "2000--2018",
+    ISBN = "979-8-89176-303-6",
+    abstract = "Understanding how large language models (LLMs) reason across semantically distinct domains remains an open challenge. In this work, we investigate whether LLMs can connect personality traits to musical preferences, specifically chord progressions. Drawing on psychological theory and symbolic music structure, we introduce a novel benchmark that evaluates two interdependent tasks: (1) inferring personality traits from a textual context and (2) selecting a musically appropriate chord progression aligned with the inferred trait. We release a synthetic, expert-guided dataset grounded in Cattell{'}s 16 Personality Factors (PF16), genre-conditioned chord structures, and diverse situational contexts. We explore multiple learning strategies, including fine-tuning task-specific corpora, model merging with LoRA adapters, and advanced prompt-based reasoning techniques such as verbalization. Additionally, we propose a teacher-student framework to evaluate the quality of model-generated explanations using a five-dimensional rubric. Our findings show that verbalization outperforms standard reasoning methods, achieving up to 11{\%} improvement over zero-shot baselines."
 }
 ```
 
