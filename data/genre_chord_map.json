@@ -1,0 +1,342 @@
+{
+    "Pop": {
+        "chord_progressions": [
+            "C  Am  F  G",
+            "C  G  Am  F",
+            "Am  F  C  G",
+            "C  Am  Dm  G",
+            "C  F  G  F",
+            "C  G  Am  Em  F",
+            "C  F  Am  G",
+            "Am  C  G  F",
+            "C  Em  Am  F",
+            "C  Am  F  C  G"
+        ],
+        "dancability": 8,
+        "mood": "uplifting",
+        "synonymous_mood": ["cheerful", "optimistic", "joyful"]
+    },
+    "Rock": {
+        "chord_progressions": [
+            "G  D  Em  C",
+            "D  A  Bm  G",
+            "E  B  C#m  A",
+            "A  E  F#m  D",
+            "G  C  D  G",
+            "A  D  E  A",
+            "E  A  B  A",
+            "B  F#  G#m  E",
+            "C  G  Am  F",
+            "D  G  A  D"
+        ],
+        "dancability": 7,
+        "mood": "energetic",
+        "synonymous_mood": ["dynamic", "bold", "rebellious"]
+    },
+    "Jazz": {
+        "chord_progressions": [
+            "Dm7  G7  Cmaj7",
+            "Dm7  G7  Cmaj7  Am7",
+            "Am7  Dm7  G7  Cmaj7",
+            "Dm7  Em7  A7  Dm7",
+            "Gm7  C7  Fmaj7",
+            "Dm7  G7  Cmaj7  Fmaj7",
+            "Em7  A7  Dm7  G7",
+            "Dm9  G13  Cmaj9",
+            "Fmaj7  Em7  Dm7  G7",
+            "Cm7  F7  Bbmaj7"
+        ],
+        "dancability": 6,
+        "mood": "sophisticated",
+        "synonymous_mood": ["smooth", "complex", "relaxed"]
+    },
+    "Blues": {
+        "chord_progressions": [
+            "C7  F7  C7  G7",
+            "C7  F7  C7  G7  C7",
+            "C7  F7  C7  G7  F7  C7",
+            "C7  C7  F7  C7  G7  F7  C7",
+            "C7  F7  G7",
+            "C9  F9  C9  G9",
+            "C7sus4  F7  C7  G7sus4",
+            "C7  Bb7  F7  C7",
+            "C7  E7  A7  D7",
+            "C7  F7  Bb7  G7"
+        ],
+        "dancability": 5,
+        "mood": "soulful",
+        "synonymous_mood": ["melancholic", "expressive", "raw"]
+    },
+    "Hip-Hop": {
+        "chord_progressions": [
+            "Am7  Dm7  G7  Cmaj7",
+            "Am  F  C  G",
+            "Em  Am  Dm  G",
+            "Am7  Em7  Dm7  G7",
+            "Am7  G7  Fmaj7  E7",
+            "Em7  Am7  Bm7  Em7",
+            "Am  G  F  E",
+            "Am7  Dm7  Em7  Fmaj7",
+            "Am  Dm  G  C",
+            "Am9  Dm9  Em9  Fmaj7"
+        ],
+        "dancability": 9,
+        "mood": "groovy",
+        "synonymous_mood": ["rhythmic", "urban", "cool"]
+    },
+    "R&B": {
+        "chord_progressions": [
+            "Cmaj7  Am7  Dm7  G7",
+            "Cmaj7  Bm7  Em7  Am7",
+            "Cmaj7  Em7  Am7  Dm7",
+            "Cmaj7  G7  Am7  Dm7",
+            "Am7  Dm7  G7  Cmaj7",
+            "Dm7  G7  Cmaj7  Fmaj7",
+            "Cmaj7  Dm7  Em7  Fmaj7",
+            "Am7  G7  Cmaj7  Em7",
+            "Cmaj7  Em7  Dm7  G7  Fmaj7",
+            "Cmaj7  Dm7  G7  Em7  Am7"
+        ],
+        "dancability": 8,
+        "mood": "smooth",
+        "synonymous_mood": ["sensual", "mellow", "emotional"]
+    },
+    "Country": {
+        "chord_progressions": [
+            "G  C  D",
+            "G  D  Em  C",
+            "G  C  D  G",
+            "G  Em  C  D",
+            "G  D  C  G",
+            "G  Bm  C  D",
+            "G  C  G  D",
+            "G  D  Am  C",
+            "G  D  Em  Bm",
+            "G  D  F  C"
+        ],
+        "dancability": 7,
+        "mood": "downtoearth",
+        "synonymous_mood": ["rustic", "heartfelt", "warm"]
+    },
+    "Soul": {
+        "chord_progressions": [
+            "Cmaj7  Bm7  Em7  Am7",
+            "Cmaj7  Am7  Dm7  G7",
+            "Am7  Dm7  G7  Cmaj7",
+            "Cmaj7  Em7  Dm7  G7",
+            "Cmaj7  Dm7  Em7  Fmaj7",
+            "Am7  Em7  Dm7  G7",
+            "Cmaj7  G7  Am7  Fmaj7",
+            "Em7  Am7  Dm7  G7  Cmaj7",
+            "Cmaj7  Em7  Am7  Dm7  G7",
+            "Cmaj7  Fmaj7  Em7  Dm7  G7"
+        ],
+        "dancability": 7,
+        "mood": "emotional",
+        "synonymous_mood": ["passionate", "heartfelt", "warm"]
+    },
+    "Reggae": {
+        "chord_progressions": [
+            "C  G/B  Am  F",
+            "C  Am  F  G",
+            "C  Em  F  G",
+            "C  F  G  C",
+            "C  G  F  C",
+            "C  Dm  Em  F",
+            "C  G  Am  F  G",
+            "C  Am  Dm  G",
+            "C  Em  Am  F",
+            "C  F  G  Am"
+        ],
+        "dancability": 8,
+        "mood": "laidback",
+        "synonymous_mood": ["relaxed", "island", "chill"]
+    },
+    "Folk": {
+        "chord_progressions": [
+            "C  F  G",
+            "C  Am  F  G",
+            "C  G  Am  F",
+            "C  F  G  C",
+            "C  Dm  G  C",
+            "C  G/B  Am  F",
+            "C  Em  Am  F",
+            "C  F  C  G",
+            "C  Am  G  F",
+            "C  G  F  C"
+        ],
+        "dancability": 5,
+        "mood": "nostalgic",
+        "synonymous_mood": ["earthy", "simple", "storytelling"]
+    },
+    "Metal": {
+        "chord_progressions": [
+            "Em  C  Am  B",
+            "Em  G  D  A",
+            "Em  D  C  B",
+            "Em  C  B  A",
+            "Em  B  C  A",
+            "Em  G  C  B",
+            "Em  F  C  G",
+            "Em  D  B  C",
+            "Em  Am  F  G",
+            "Em  C  G  D"
+        ],
+        "dancability": 4,
+        "mood": "intense",
+        "synonymous_mood": ["aggressive", "powerful", "dark"]
+    },
+    "Punk": {
+        "chord_progressions": [
+            "E5  A5  B5",
+            "E5  B5  A5",
+            "E5  A5  E5  B5",
+            "E5  A5  B5  A5",
+            "E5  D5  A5  B5",
+            "E5  D5  A5",
+            "A5  D5  E5",
+            "E5  A5  E5  B5  A5",
+            "E5  B5  E5  A5",
+            "E5  A5  B5  E5"
+        ],
+        "dancability": 7,
+        "mood": "rebellious",
+        "synonymous_mood": ["raw", "energetic", "fastpaced"]
+    },
+    "Indie": {
+        "chord_progressions": [
+            "Am  F  C  G",
+            "Am  G  F  E",
+            "Am  F  G  C",
+            "Am  C  G  F",
+            "Am  Em  F  G",
+            "Am  Dm  G  C",
+            "Am  F  Em  G",
+            "Am  G  C  F",
+            "Am  F  Dm  G",
+            "Am  Em  C  G"
+        ],
+        "dancability": 6,
+        "mood": "introspective",
+        "synonymous_mood": ["quirky", "melancholic", "authentic"]
+    },
+    "Alternative": {
+        "chord_progressions": [
+            "Bm  G  D  A",
+            "D  A  Bm  G",
+            "D  F#m  Bm  A",
+            "D  G  A  D",
+            "D  Bm  G  A",
+            "D  G  Bm  A",
+            "D  A  G  D",
+            "D  Bm  Em  A",
+            "Bm  G  A  D",
+            "D  A  F#m  G"
+        ],
+        "dancability": 7,
+        "mood": "eclectic",
+        "synonymous_mood": ["diverse", "experimental", "unique"]
+    },
+    "Electronic": {
+        "chord_progressions": [
+            "Em  C  G  D",
+            "Em  D  C  Bm",
+            "Em  G  D  A",
+            "Em  C  D  G",
+            "Em  Bm  C  D",
+            "Em  C  Am  B",
+            "Em  D  G  C",
+            "Em  Am  D  C",
+            "Em  C  D  Bm",
+            "Em  G  C  D"
+        ],
+        "dancability": 10,
+        "mood": "pulsating",
+        "synonymous_mood": ["energetic", "vibrant", "driving"]
+    },
+    "Classical Crossover": {
+        "chord_progressions": [
+            "Dm  Bb  F  C",
+            "F  Am  Dm  Bb",
+            "Dm  Bb  F  C  Gm",
+            "Dm  Gm  C  F",
+            "F  Dm  Bb  C",
+            "Bb  F  Dm  C",
+            "F  Dm  Am  Bb",
+            "Dm  C  Bb  F",
+            "F  Gm  Dm  Bb",
+            "Bb  Dm  F  C"
+        ],
+        "dancability": 5,
+        "mood": "dramatic",
+        "synonymous_mood": ["elegant", "sophisticated", "grand"]
+    },
+    "Latin": {
+        "chord_progressions": [
+            "Am  G  F  E",
+            "Am  F  E  G",
+            "Am  G  E  F",
+            "Am  G  F  Em",
+            "Am  F  G  E",
+            "Am  Em  F  G",
+            "Am  G  Em  F",
+            "Am  F  Em  G",
+            "Am  G  F  E7",
+            "Am  F  G  Em7"
+        ],
+        "dancability": 9,
+        "mood": "passionate",
+        "synonymous_mood": ["fiery", "vibrant", "rhythmic"]
+    },
+    "Reggaeton": {
+        "chord_progressions": [
+            "Cm  Ab  Eb  Bb",
+            "Cm  Bb  Ab  G",
+            "Cm  Ab  G  Bb",
+            "Cm  Eb  Ab  Bb",
+            "Cm  Ab  Eb  G",
+            "Cm  Bb  Eb  Ab",
+            "Cm  G  Ab  Bb",
+            "Cm  Ab  G  Eb",
+            "Cm  Eb  Bb  Ab",
+            "Cm  Ab  Bb  Cm"
+        ],
+        "dancability": 9,
+        "mood": "infectious",
+        "synonymous_mood": ["danceable", "upbeat", "lively"]
+    },
+    "Gospel": {
+        "chord_progressions": [
+            "Cmaj7  Am7  Fmaj7  G7",
+            "Cmaj7  Dm7  G7  Cmaj7",
+            "Cmaj7  Em7  Dm7  G7",
+            "Cmaj7  Am7  Dm7  G7  Fmaj7",
+            "Cmaj7  Em7  Am7  Dm7",
+            "Cmaj7  Fmaj7  Em7  Am7",
+            "Cmaj7  Dm7  Em7  G7",
+            "Cmaj7  Bm7  Em7  Am7",
+            "Cmaj7  Dm7  Em7  Am7  G7",
+            "Cmaj7  Em7  Dm7  G7  Am7"
+        ],
+        "dancability": 6,
+        "mood": "uplifting",
+        "synonymous_mood": ["spiritual", "soulful", "inspiring"]
+    },
+    "New Age": {
+        "chord_progressions": [
+            "Am  G  F  Em",
+            "Am  F  G  Em",
+            "Am  Em  G  F",
+            "Am  G  Em  F",
+            "Am  F  Em  G",
+            "Am  Em  F  G",
+            "Am  G  F  Em",
+            "Am  Em  G  F",
+            "Am  G  Em  Dm",
+            "Am  Em  F  Dm"
+        ],
+        "dancability": 3,
+        "mood": "serene",
+        "synonymous_mood": ["calm", "ambient", "meditative"]
+    }
+}

@@ -1,0 +1,83 @@
+[
+    {
+      "domain": "Social Dynamics",
+      "subdomains": [
+        "Friendships",
+        "Romantic Relationships",
+        "Community Engagement"
+      ]
+    },
+    {
+      "domain": "Personal Development",
+      "subdomains": [
+        "Self-Improvement",
+        "Emotional Resilience",
+        "Identity Exploration"
+      ]
+    },
+    {
+      "domain": "Lifestyle & Routine",
+      "subdomains": [
+        "Daily Routines",
+        "Leisure & Recreation",
+        "Health & Wellness"
+      ]
+    },
+    {
+      "domain": "Professional Environment",
+      "subdomains": [
+        "Workplace Culture",
+        "Career Growth",
+        "Leadership Dynamics"
+      ]
+    },
+    {
+      "domain": "Creative Expression",
+      "subdomains": [
+        "Artistic Pursuits",
+        "Music Exploration",
+        "Literary Interests"
+      ]
+    },
+    {
+      "domain": "Cultural Engagement",
+      "subdomains": [
+        "Heritage & Tradition",
+        "Global Influences",
+        "Local Community"
+      ]
+    },
+    {
+      "domain": "Urban Living",
+      "subdomains": [
+        "City Life",
+        "Public Transit",
+        "Neighborhood Vibes"
+      ]
+    },
+    {
+      "domain": "Technology & Media",
+      "subdomains": [
+        "Digital Connectivity",
+        "Social Media Trends",
+        "Innovative Consumption"
+      ]
+    },
+    {
+      "domain": "Family & Home",
+      "subdomains": [
+        "Domestic Life",
+        "Family Bonds",
+        "Home Environment"
+      ]
+    },
+    {
+      "domain": "Adventure & Exploration",
+      "subdomains": [
+        "Travel Experiences",
+        "Outdoor Activities",
+        "Culinary Journeys"
+      ]
+    }
+  ]
+  

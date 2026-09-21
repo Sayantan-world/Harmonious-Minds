@@ -1,0 +1,19 @@
+{
+    "pop": "Uses the I-V-vi-IV major‑key cycle with simple triads. Examples: C-Am-F-G; C-G-Am-F. Uplifting, very danceable.",
+    "country": "Built around I-IV-V and I-V-vi-IV guitar‑friendly triads. Examples: G-C-D; G-D-Em-C. Heartfelt, rustic warmth.",
+    "gospel": "Features Imaj7-vi7-ii7-V7 turnarounds with rich extensions. Examples: Cmaj7-Am7-Dm7-G7; Cmaj7-Em7-Am7-Dm7. Spiritual uplift.",
+    "jazz": "Relies on ii7-V7-Imaj7 progressions and voice‑leading. Examples: Dm7-G7-Cmaj7; Am7-Dm7-G7-Cmaj7. Smooth sophistication.",
+    "alternative": "Mixes I-V-vi-IV with modal/minor shifts (vi-IV-I-V). Examples: Bm-G-D-A; D-G-A-D. Eclectic, experimental edge.",
+    "classical crossover": "Adopts classical cadences (IV-I-V-I) and richer voicings. Examples: Dm-Bb-F-C; F-Am-Dm-Bb. Dramatic, elegant.",
+    "new age": "Uses ambient modal loops like i-VII-VI-V in minor. Examples: Am-G-F-Em; Am-Em-G-F. Serene, meditative.",
+    "reggae": "Skank on off‑beats with I-V-vi-IV or I-VI-IV-V patterns. Examples: C-G/B-Am-F; C-Am-F-G. Chill, laid‑back groove.",
+    "folk": "Simple I-IV-V and vi-IV-I-V sequences on acoustic triads. Examples: C-F-G; C-Am-F-G. Nostalgic storytelling.",
+    "rock": "Drives on I-V-vi-IV and I-IV-V power‑chords. Examples: G-D-Em-C; D-A-Bm-G. Energetic, bold.",
+    "metal": "Dark minor‑key i-VI-III-VII or i-v-iv-V power‑chords. Examples: Em-C-Am-B; Em-G-D-A. Intense aggression.",
+    "punk": "Fast I-IV-V power‑chord loops, minimal extensions. Examples: E5-A5-B5; E5-B5-A5. Raw, rebellious energy.",
+    "hip hop": "Often uses looped minor‑key progressions with sparse, syncopated chords: vi-IV-I-V (e.g. Am-F-C-G) and jazzy extensions like Am7-Dm7-G7-Cmaj7. Groovy, urban vibe.",
+    "blues": "Built on the 12‑bar I7-IV7-I7-V7 cycle: C7-F7-C7-G7; C7-F7-C7-G7-F7-C7. Soulful, expressive, raw feel with dominant 7th tension.",
+    "r&b": "Features smooth Imaj7-vi7-ii7-V7 turnarounds with lush extensions: Cmaj7-Am7-Dm7-G7; Cmaj7-Em7-Am7-D7. Sensual, mellow groove.",
+    "indie": "Built around vi-IV-I-V minor‑key cycles with open‑voiced triads and a DIY feel. Examples: Am-F-C-G; Am-C-G-F. Introspective, authentic, and slightly melancholic."
+  }
+  

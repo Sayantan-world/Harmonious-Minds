@@ -1,0 +1,114 @@
+[
+    {
+        "key": "Warmth",
+        "low": ["Impersonal", "distant", "cool", "reserved", "detached", "formal", "aloof"],
+        "high": ["Warm", "outgoing", "attentive to others", "kindly", "easygoing", "participating", "likes people"],
+        "alike_genre": ["Pop", "Country", "Gospel"],
+        "different_genre": ["Rock", "Electronic", "Metal"]
+    },
+    {
+        "key": "Reasoning",
+        "low": ["Concrete-thinking", "less intelligent", "lower general mental capacity", "unable to handle abstract problems"],
+        "high": ["Abstract-thinking", "more intelligent", "bright", "higher general mental capacity", "fast-learner"],
+        "alike_genre": ["Jazz", "Alternative", "Classical Crossover"],
+        "different_genre": ["Pop", "Country", "Hip-Hop"]
+    },
+    {
+        "key": "Emotional_Stability",
+        "low": ["Reactive emotionally", "changeable", "affected by feelings", "emotionally less stable", "easily upset"],
+        "high": ["Emotionally stable", "adaptive", "mature", "faces reality calmly"],
+        "alike_genre": ["New Age", "Reggae", "Folk"],
+        "different_genre": ["Metal", "Punk", "Rock"]
+    },
+    {
+        "key": "Dominance",
+        "low": ["Deferential", "cooperative", "avoids conflict", "submissive", "humble", "obedient", "easily led", "docile", "accommodating"],
+        "high": ["Dominant", "forceful", "assertive", "aggressive", "competitive", "stubborn", "bossy"],
+        "alike_genre": ["Rock", "Metal", "Punk"],
+        "different_genre": ["Pop", "Country", "Gospel"]
+    },
+    {
+        "key": "Liveliness",
+        "low": ["Serious", "restrained", "prudent", "taciturn", "introspective", "silent"],
+        "high": ["Lively", "animated", "spontaneous", "enthusiastic", "happy-go-lucky", "cheerful", "expressive", "impulsive"],
+        "alike_genre": ["Pop", "Hip-Hop", "Electronic"],
+        "different_genre": ["Jazz", "Blues", "Folk"]
+    },
+    {
+        "key": "Rule-Consciousness",
+        "low": ["Expedient", "nonconforming", "disregards rules", "self-indulgent"],
+        "high": ["Rule-conscious", "dutiful", "conscientious", "conforming", "moralistic", "staid", "rule-bound"],
+        "alike_genre": ["Classical Crossover", "Jazz", "R&B"],
+        "different_genre": ["Hip-Hop", "Punk", "Electronic"]
+    },
+    {
+        "key": "Social_Boldness",
+        "low": ["Shy", "threat-sensitive", "timid", "hesitant", "intimidated"],
+        "high": ["Socially bold", "venturesome", "thick-skinned", "uninhibited"],
+        "alike_genre": ["Hip-Hop", "Electronic", "Reggaeton"],
+        "different_genre": ["Jazz", "Classical Crossover", "New Age"]
+    },
+    {
+        "key": "Sensitivity",
+        "low": ["Utilitarian", "objective", "unsentimental", "tough-minded", "self-reliant", "no-nonsense", "rough"],
+        "high": ["Sensitive", "aesthetic", "sentimental", "tender-minded", "intuitive", "refined"],
+        "alike_genre": ["Soul", "Gospel", "Blues"],
+        "different_genre": ["Metal", "Punk", "Rock"]
+    },
+    {
+        "key": "Vigilance",
+        "low": ["Trusting", "unsuspecting", "accepting", "unconditional", "easy"],
+        "high": ["Vigilant", "suspicious", "skeptical", "distrustful", "oppositional"],
+        "alike_genre": ["Alternative", "Metal", "Punk"],
+        "different_genre": ["Pop", "Country", "Reggae"]
+    },
+    {
+        "key": "Abstractedness",
+        "low": ["Grounded", "practical", "prosaic", "solution oriented", "steady", "conventional"],
+        "high": ["Abstract", "imaginative", "absentminded", "impractical", "absorbed in ideas"],
+        "alike_genre": ["Jazz", "New Age", "Indie"],
+        "different_genre": ["Country", "Hip-Hop", "Reggae"]
+    },
+    {
+        "key": "Privateness",
+        "low": ["Forthright", "genuine", "artless", "open", "guileless", "naive", "unpretentious", "involved"],
+        "high": ["Private", "discreet", "nondisclosing", "shrewd", "polished", "worldly", "astute", "diplomatic"],
+        "alike_genre": ["Classical Crossover", "Indie", "Folk"],
+        "different_genre": ["Pop", "Hip-Hop", "Electronic"]
+    },
+    {
+        "key": "Apprehension",
+        "low": ["Self-assured", "unworried", "complacent", "secure", "free of guilt", "confident", "self-satisfied"],
+        "high": ["Apprehensive", "self-doubting", "worried", "guilt-prone", "insecure", "worrying", "self-blaming"],
+        "alike_genre": ["Blues", "Alternative", "Indie"],
+        "different_genre": ["Pop", "Country", "Gospel"]
+    },
+    {
+        "key": "Openness_to_Change",
+        "low": ["Traditional", "attached to familiar", "conservative", "respecting traditional ideas"],
+        "high": ["Open to change", "experimental", "liberal", "analytical", "critical", "freethinking", "flexibility"],
+        "alike_genre": ["Electronic", "Alternative", "Reggaeton"],
+        "different_genre": ["Country", "Blues", "Gospel"]
+    },
+    {
+        "key": "Self-Reliance",
+        "low": ["Group-oriented", "affiliative", "a joiner and follower dependent"],
+        "high": ["Self-reliant", "solitary", "resourceful", "individualistic", "self-sufficient"],
+        "alike_genre": ["Indie", "Alternative", "Metal"],
+        "different_genre": ["Pop", "Country", "Reggae"]
+    },
+    {
+        "key": "Perfectionism",
+        "low": ["Tolerates disorder", "unexacting", "flexible", "undisciplined", "lax", "self-conflict", "impulsive", "careless of social rules", "uncontrolled"],
+        "high": ["Perfectionistic", "organized", "compulsive", "self-disciplined", "socially precise", "exacting will power", "control", "self-sentimental"],
+        "alike_genre": ["Classical Crossover", "Jazz", "R&B"],
+        "different_genre": ["Hip-Hop", "Punk", "Electronic"]
+    },
+    {
+        "key": "Tension",
+        "low": ["Relaxed", "placid", "tranquil", "torpid", "patient", "composed low drive"],
+        "high": ["Tense", "high-energy", "impatient", "driven", "frustrated", "over-wrought", "time-driven"],
+        "alike_genre": ["Rock", "Hip-Hop", "Metal"],
+        "different_genre": ["New Age", "Folk", "Reggae"]
+    }
+]

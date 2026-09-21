@@ -1,0 +1,84 @@
+# ---------------------------------------------------------------------------
+# Hidden files and directories
+# ---------------------------------------------------------------------------
+# Ignore every dotfile and dot-directory at any depth. Because git does not
+# descend into an ignored directory, this also covers non-hidden files that
+# live inside a hidden directory (e.g. .paper/latex.tex, .venv/lib/foo.py).
+.*
+
+# ...except this file, which has to stay tracked.
+!.gitignore
+
+# ---------------------------------------------------------------------------
+# Secrets and credentials
+# ---------------------------------------------------------------------------
+_keys/
+keys/
+*.pem
+*.key
+*credential*
+*secret*
+*_token
+openai.txt
+groq.txt
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+develop-eggs/
+eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+sdist/
+wheels/
+
+# Virtual environments (non-hidden names; hidden ones are covered by `.*`)
+venv/
+env/
+ENV/
+
+# ---------------------------------------------------------------------------
+# Notebooks
+# ---------------------------------------------------------------------------
+*.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Models, checkpoints and caches
+# ---------------------------------------------------------------------------
+hf_cache/
+models/
+checkpoints/
+adapters/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# ---------------------------------------------------------------------------
+# Experiment outputs
+# ---------------------------------------------------------------------------
+outputs/
+predictions/
+results/
+runs/
+logs/
+wandb/
+*.log
+
+# ---------------------------------------------------------------------------
+# OS / editor cruft
+# ---------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
